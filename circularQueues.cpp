@@ -108,7 +108,7 @@ int main() {
             cout << "2. Implementation delete operation" << endl;
             cout << "3. display Values" << endl;
             cout << "4. Exit" << endl;
-            cout << "Enter your cjoice (1-4): ";
+            cout << "Enter your choice (1-4): ";
             cin >> ch;
             cout << endl;
 
